@@ -8,6 +8,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 
-### 'tsc -w'
+### `tsc -w`
 
-Runs TypeScript Compiler
+Runs TypeScript Compiler.
